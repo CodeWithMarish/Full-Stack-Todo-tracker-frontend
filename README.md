@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Full Stack Todo App - Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was developed using React. It is simple todo tracker app with board based UI and used Node JS as its backend.
 
 ## Available Scripts
 
